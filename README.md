@@ -1,12 +1,12 @@
 # Hi, I'm RawQubit 👋
 
-📍 **Systems & Security Researcher** | 🔐 **AI Security** | 🤖 **AI-Native Builder** | 🦀 **Rust & Go Developer**
+📍 **Systems & Security Researcher** | 🔐 **AI Security** | 🤖 **AI-Native Builder** | 🦀 **Rust & Java SpringBoot Developer**
 
 > Building high-performance tools at the intersection of AI, cybersecurity, and distributed systems. I focus on problems where AI can meaningfully augment security workflows — reducing noise, surfacing signal, and automating the tedious parts of defense.
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Java SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
