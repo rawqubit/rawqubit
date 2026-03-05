@@ -1,4 +1,4 @@
-# Hi, I'm RawQubit 👋
+# Hi, I'm Srinikhil Chakilam (@rawQubit) 👋
 
 📍 **Systems & Security Researcher** | 🔐 **AI Security** | 🤖 **AI-Native Builder** | 🦀 **Rust & Java SpringBoot Developer**
 
