@@ -80,23 +80,6 @@ Polls NVD API 2.0, filters by your tech stack using AI relevance scoring, and de
 
 ---
 
-## ⛓️ Blockchain & Web3
-
-*Exploring the Ethereum ecosystem and decentralized systems.*
-
-- 💎 **[ETH-Resources](https://github.com/rawqubit/ETH-Resources)** — Curated list of Ethereum development resources, tools, and references.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawqubit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawqubit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🧠 Philosophy
 
 > "The best security tool is the one you actually use." I build tools that fit naturally into existing workflows, making security and quality engineering frictionless for developers and analysts alike.
