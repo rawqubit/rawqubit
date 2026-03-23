@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinikhilchakilam)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rawqubit)
 [![Website](https://img.shields.io/badge/rawqubit.com-111111?style=flat-square&logo=cloudflare&logoColor=white)](https://rawqubit.com)
-[![CommPlus](https://img.shields.io/badge/commplus.app-6366f1?style=flat-square&logo=sparkles&logoColor=white)](https://commplus.app)
 
 </div>
 
