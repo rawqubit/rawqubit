@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinikhilchakilam)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rawqubit)
 [![Website](https://img.shields.io/badge/rawqubit.com-111111?style=flat-square&logo=cloudflare&logoColor=white)](https://rawqubit.com)
+[![CommPlus](https://img.shields.io/badge/commplus.app-6366f1?style=flat-square&logo=sparkles&logoColor=white)](https://commplus.app)
 
 </div>
 
@@ -32,7 +33,6 @@ Currently writing two books:
 | [**shadowmap**](https://github.com/rawqubit/shadowmap) | Passive attack surface mapper. Zero active scanning — cert transparency logs, DNS enumeration, AI risk analysis. |
 | [**cvewatch**](https://github.com/rawqubit/cvewatch) | CVE monitoring daemon. Polls NVD API 2.0, filters by your stack using AI relevance scoring, delivers Slack/Discord alerts. |
 | [**yaraforge**](https://github.com/rawqubit/yaraforge) | AI-powered YARA rule forge. Generates, validates, and deploys rules to Elastic, Splunk, and standalone YARA from one CLI. |
-| [**spring-api-scanner**](https://github.com/rawqubit/spring-api-scanner) | REST API security scanner for OpenAPI 3.x specs. AI-powered OWASP API Top 10 vulnerability analysis. |
 | [**ai-siem-triage**](https://github.com/rawqubit/ai-siem-triage) | SOC alert triage assistant. Classifies SIEM events, prioritizes by severity, recommends response actions. |
 
 ---
@@ -81,6 +81,15 @@ Tools for analysts, researchers, and defenders.
 
 ---
 
+## Java / Spring
+
+| Project | What it does |
+|---------|-------------|
+| [spring-api-scanner](https://github.com/rawqubit/spring-api-scanner) | AI-powered REST API security scanner — analyzes OpenAPI 3.x specs for OWASP API Top 10 vulnerabilities |
+| [spring-jwt-auth](https://github.com/rawqubit/spring-jwt-auth) | Production-ready JWT auth microservice — refresh token rotation, RBAC, Spring Boot 3.2 |
+
+---
+
 ## Research & ML
 
 | Project | What it does |
@@ -93,12 +102,13 @@ Tools for analysts, researchers, and defenders.
 
 ---
 
-## Java / Spring
+## Open Source & Web
 
 | Project | What it does |
 |---------|-------------|
-| [spring-jwt-auth](https://github.com/rawqubit/spring-jwt-auth) | Production-ready JWT auth microservice — refresh token rotation, RBAC, Spring Boot 3.2 |
-| [spring-api-scanner](https://github.com/rawqubit/spring-api-scanner) | OpenAPI 3.x security scanner — OWASP API Top 10 analysis |
+| [devdash](https://github.com/rawqubit/devdash) | Developer portfolio template — glassmorphic design, dark theme, built with TypeScript |
+| [snippet-vault](https://github.com/rawqubit/snippet-vault) | Local-first code snippet manager with tagging and full-text search |
+| [workshop--exploring-assemblyscript-contracts](https://github.com/rawqubit/workshop--exploring-assemblyscript-contracts) | Hands-on workshop: building smart contracts for NEAR Protocol with AssemblyScript |
 
 ---
 
