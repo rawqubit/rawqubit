@@ -28,60 +28,69 @@ Currently writing two books:
 
 | Project | What it does |
 |---------|-------------|
-| [**llmguard-cli**](https://github.com/rawqubit/llmguard-cli) | Real-time prompt injection + jailbreak detector. Multi-layer: 20+ heuristic signatures + LLM meta-reasoning. HTTP API included. 0.94 F1 on adversarial benchmarks. |
-| [**gitleaks-ai**](https://github.com/rawqubit/gitleaks-ai) | AI-enhanced secrets scanner. Shannon entropy analysis + LLM false-positive elimination. ~73% fewer false positives vs regex-only. >99% recall. |
-| [**shadowmap**](https://github.com/rawqubit/shadowmap) | Passive attack surface mapper. Zero active scanning — cert transparency, DNS, AI risk analysis. Finds what shodan misses. |
-| [**cvewatch**](https://github.com/rawqubit/cvewatch) | CVE monitoring daemon. Polls NVD API 2.0, filters by your stack using AI relevance scoring, delivers enriched Slack/Discord alerts. |
-| [**yaraforge**](https://github.com/rawqubit/yaraforge) | AI-powered YARA rule generator and optimizer. Built for threat hunters and malware analysts who need rules that actually compile and match. |
+| [**llmguard-cli**](https://github.com/rawqubit/llmguard-cli) | Real-time prompt injection + jailbreak detector. Multi-layer: 20+ heuristic signatures + LLM meta-reasoning. HTTP API included. |
+| [**gitleaks-ai**](https://github.com/rawqubit/gitleaks-ai) | AI-enhanced secrets scanner. Shannon entropy analysis + LLM false-positive elimination. ~73% fewer false positives vs regex-only. |
+| [**shadowmap**](https://github.com/rawqubit/shadowmap) | Passive attack surface mapper. Zero active scanning — cert transparency logs, DNS enumeration, AI risk analysis. |
+| [**cvewatch**](https://github.com/rawqubit/cvewatch) | CVE monitoring daemon. Polls NVD API 2.0, filters by your stack using AI relevance scoring, delivers Slack/Discord alerts. |
+| [**yaraforge**](https://github.com/rawqubit/yaraforge) | AI-powered YARA rule forge. Generates, validates, and deploys rules to Elastic, Splunk, and standalone YARA from one CLI. |
 | [**spring-api-scanner**](https://github.com/rawqubit/spring-api-scanner) | REST API security scanner for OpenAPI 3.x specs. AI-powered OWASP API Top 10 vulnerability analysis. |
-| [**ai-siem-triage**](https://github.com/rawqubit/ai-siem-triage) | SOC alert triage assistant. Classifies SIEM events, prioritizes by severity, and recommends response actions. |
+| [**ai-siem-triage**](https://github.com/rawqubit/ai-siem-triage) | SOC alert triage assistant. Classifies SIEM events, prioritizes by severity, recommends response actions. |
 
 ---
 
-## AI Security Arsenal
+## AI Security Tools
 
 Tools for analysts, researchers, and defenders.
 
 | Tool | What it does |
 |------|-------------|
-| [ai-cve-analyzer](https://github.com/rawqubit/ai-cve-analyzer) | CVE risk assessment with NVD data — attack scenarios, patch urgency, remediation |
-| [ai-threat-intel](https://github.com/rawqubit/ai-threat-intel) | Raw intel → TTPs, IOCs, MITRE ATT&CK mappings |
+| [ai-cve-analyzer](https://github.com/rawqubit/ai-cve-analyzer) | CVE risk assessment with NVD data — attack scenarios, patch urgency, remediation guidance |
+| [ai-threat-intel](https://github.com/rawqubit/ai-threat-intel) | Raw intel reports → TTPs, IOCs, MITRE ATT&CK mappings |
 | [ai-phishing-detector](https://github.com/rawqubit/ai-phishing-detector) | URL and email phishing analysis with heuristic + LLM reasoning |
-| [ai-malware-explainer](https://github.com/rawqubit/ai-malware-explainer) | Sandbox report → MITRE ATT&CK behavior mapping |
+| [ai-malware-explainer](https://github.com/rawqubit/ai-malware-explainer) | Sandbox reports → MITRE ATT&CK behavior mapping |
 | [ai-pentest-report](https://github.com/rawqubit/ai-pentest-report) | Raw pentest findings → professional client-ready reports |
-| [ai-packet-analyzer](https://github.com/rawqubit/ai-packet-analyzer) | pcap / tcpdump → C2, exfiltration, lateral movement detection |
-| [ai-secrets-scanner](https://github.com/rawqubit/ai-secrets-scanner) | Codebase scan → hardcoded API keys, credentials, sensitive data |
+| [ai-packet-analyzer](https://github.com/rawqubit/ai-packet-analyzer) | pcap / tcpdump → C2, exfiltration, and lateral movement detection |
+| [ai-secrets-scanner](https://github.com/rawqubit/ai-secrets-scanner) | Detects hardcoded API keys, credentials, and sensitive data in source code |
+| [ai-log-analyzer](https://github.com/rawqubit/ai-log-analyzer) | Log file analysis — error pattern detection, anomaly identification, root cause hints |
 
 ---
 
-## AI Developer Toolkit
-
-Tools that automate the software development lifecycle.
+## AI Developer Tools
 
 | Tool | What it does |
 |------|-------------|
-| [ai-code-reviewer](https://github.com/rawqubit/ai-code-reviewer) | Automated code review — bugs, best practices, security issues |
-| [ai-commit-gen](https://github.com/rawqubit/ai-commit-gen) | Staged diff → conventional commit message |
-| [ai-test-gen](https://github.com/rawqubit/ai-test-gen) | Source file → unit tests for multiple frameworks |
-| [ai-doc-gen](https://github.com/rawqubit/ai-doc-gen) | Code → structured documentation |
-| [ai-sql-gen](https://github.com/rawqubit/ai-sql-gen) | Natural language → SQL query |
-| [ai-log-analyzer](https://github.com/rawqubit/ai-log-analyzer) | Log files → error patterns and anomaly detection |
-| [ai-regex-explainer](https://github.com/rawqubit/ai-regex-explainer) | Regex → plain English explanation |
-| [ai-shell-assistant](https://github.com/rawqubit/ai-shell-assistant) | Natural language → shell command |
-| [ai-api-mock](https://github.com/rawqubit/ai-api-mock) | Schema / description → realistic API mock responses |
-| [ai-readme-optimizer](https://github.com/rawqubit/ai-readme-optimizer) | README → improved clarity, structure, and completeness |
+| [ai-code-reviewer](https://github.com/rawqubit/ai-code-reviewer) | Automated code review — bugs, performance issues, style suggestions |
+| [ai-test-gen](https://github.com/rawqubit/ai-test-gen) | Generates unit tests for any code file |
+| [ai-commit-gen](https://github.com/rawqubit/ai-commit-gen) | AI-powered Git commit messages from staged changes |
+| [ai-doc-gen](https://github.com/rawqubit/ai-doc-gen) | Generates documentation from code files |
+| [ai-sql-gen](https://github.com/rawqubit/ai-sql-gen) | Natural language → SQL queries |
+| [ai-shell-assistant](https://github.com/rawqubit/ai-shell-assistant) | Shell script help, debugging, and command explanation |
+| [ai-terminal-assistant](https://github.com/rawqubit/ai-terminal-assistant) | Terminal assistant for debugging and command lookup |
+| [ai-regex-explainer](https://github.com/rawqubit/ai-regex-explainer) | Explains any regular expression in plain English |
+| [ai-readme-optimizer](https://github.com/rawqubit/ai-readme-optimizer) | Improves README clarity, completeness, and structure |
+| [ai-api-mock](https://github.com/rawqubit/ai-api-mock) | AI-powered mock API response generator for testing |
 
 ---
 
-## Rust Utilities
+## Rust CLI Tools
 
-Systems-level CLI tools built for precision and speed.
+| Project | What it does |
+|---------|-------------|
+| [rust-grep-tool](https://github.com/rawqubit/rust-grep-tool) | Fast CLI file search built in Rust — ripgrep-style pattern matching |
+| [rust-config-transformer](https://github.com/rawqubit/rust-config-transformer) | Convert config files between JSON, YAML, and TOML formats |
+| [rust-sys-monitor](https://github.com/rawqubit/rust-sys-monitor) | Real-time system resource monitor — CPU, memory, disk in the terminal |
 
-| Tool | What it does |
-|------|-------------|
-| [rust-grep-tool](https://github.com/rawqubit/rust-grep-tool) | Blazing fast recursive file search with pattern highlighting |
-| [rust-sys-monitor](https://github.com/rawqubit/rust-sys-monitor) | Real-time CPU/Memory/Disk monitor with visual bars |
-| [rust-config-transformer](https://github.com/rawqubit/rust-config-transformer) | JSON ↔ YAML ↔ TOML format converter |
+---
+
+## Research & ML
+
+| Project | What it does |
+|---------|-------------|
+| [macro-crypto-correlator](https://github.com/rawqubit/macro-crypto-correlator) | Global macro indicators vs stablecoin liquidity and crypto volatility |
+| [stable-depeg-predictor](https://github.com/rawqubit/stable-depeg-predictor) | AI early-warning system for stablecoin de-pegging events |
+| [yield-alpha-optimizer](https://github.com/rawqubit/yield-alpha-optimizer) | AI-driven yield optimization for DeFi using on-chain data and ML forecasting |
+| [nano-mind-reader](https://github.com/rawqubit/nano-mind-reader) | Mechanistic interpretability on a tiny GPT — visualizing internal thought patterns |
+| [Image-Classifier](https://github.com/rawqubit/Image-Classifier) | Transfer learning image classifier with TensorFlow/Keras for multi-class recognition |
 
 ---
 
@@ -89,9 +98,8 @@ Systems-level CLI tools built for precision and speed.
 
 | Project | What it does |
 |---------|-------------|
-| [spring-jwt-auth](https://github.com/rawqubit/spring-jwt-auth) | Production-ready JWT auth microservice — refresh rotation, RBAC, Spring Boot 3.2 |
+| [spring-jwt-auth](https://github.com/rawqubit/spring-jwt-auth) | Production-ready JWT auth microservice — refresh token rotation, RBAC, Spring Boot 3.2 |
 | [spring-api-scanner](https://github.com/rawqubit/spring-api-scanner) | OpenAPI 3.x security scanner — OWASP API Top 10 analysis |
-| [springboot-microservice](https://github.com/rawqubit/springboot-microservice) | Multi-cloud Spring Boot microservice — service registry, cloud gateway |
 
 ---
 
