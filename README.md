@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinikhilchakilam)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rawqubit)
 [![Website](https://img.shields.io/badge/rawqubit.com-111111?style=flat-square&logo=cloudflare&logoColor=white)](https://rawqubit.com)
+[![Website](https://img.shields.io/badge/srinikhilchakilam.com-111111?style=flat-square&logo=cloudflare&logoColor=white)](https://srinikhilchakilam.com)
 
 </div>
 
@@ -146,6 +147,6 @@ Technical deep-dives published on [LinkedIn](https://linkedin.com/in/srinikhilch
 
 **The best security tool is the one that fits your workflow.**
 
-[rawqubit.com](https://rawqubit.com)
+[rawqubit.com](https://rawqubit.com) · [srinikhilchakilam.com](https://srinikhilchakilam.com)
 
 </div>
