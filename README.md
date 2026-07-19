@@ -17,11 +17,6 @@ I build tools at the intersection of **AI and security** — LLM pipelines that 
 
 I also write deep technical posts on LinkedIn: LLM infrastructure (KV Cache, Ring Attention, Quantization), distributed systems, and AI security (RAG prompt injection, vector search internals).
 
-Currently writing two books:
-
-- **[ML Math: Zero to Hero](https://rawqubit.com/books/ml-math)** — 20-chapter interactive course covering ML mathematics from first principles. Scalars to diffusion models.
-- **[Claude Code: The Complete Guide](https://rawqubit.com/books/claude-code)** — 17-chapter guide to mastering Claude Code professionally. Plan Mode through Agent Teams and cost optimization.
-
 ---
 
 ## Flagship Projects
