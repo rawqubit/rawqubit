@@ -60,9 +60,9 @@ Deep technical posts on LinkedIn covering LLM systems and AI security from first
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawqubit&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawqubit&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawqubit&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawqubit&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
