@@ -4,6 +4,17 @@
 
 I build tools I could not find: short, dependency-free programs that make a hard thing visible — a network, a key leaving a machine, a model learning, a packet's whole life. Everything here is MIT-licensed, runs on your machine, and ships with tests that check the claim instead of asserting it.
 
+### Download one and run it
+
+```bash
+curl -L https://github.com/rawqubit/wirecut/releases/download/v0.1.0/wirecut_v0.1.0_linux_amd64.tar.gz | tar -xz
+./wirecut demo
+```
+
+`wirecut`, `interlock`, `tracelight` and `constellate` ship static binaries for Linux, macOS and Windows on amd64 and arm64, with SHA-256 checksums. Each one runs a self-contained demo: no toolchain, no config, no network.
+
+[![wirecut](https://img.shields.io/github/v/release/rawqubit/wirecut?label=wirecut&color=ffa53d)](https://github.com/rawqubit/wirecut/releases) [![interlock](https://img.shields.io/github/v/release/rawqubit/interlock?label=interlock&color=ffa53d)](https://github.com/rawqubit/interlock/releases) [![tracelight](https://img.shields.io/github/v/release/rawqubit/tracelight?label=tracelight&color=ffa53d)](https://github.com/rawqubit/tracelight/releases) [![constellate](https://img.shields.io/github/v/release/rawqubit/constellate?label=constellate&color=ffa53d)](https://github.com/rawqubit/constellate/releases)
+
 ### Open two of these right now, no install
 
 | | |
