@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Srinikhil Chakilam — small, sharp tools for networks, security and language models">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0c10"/>
+      <stop offset="1" stop-color="#07080b"/>
+    </linearGradient>
+    <radialGradient id="ember" cx="0.82" cy="0.18" r="0.55">
+      <stop offset="0" stop-color="#ffa53d" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffa53d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mint" cx="0.1" cy="0.85" r="0.5">
+      <stop offset="0" stop-color="#56d3a6" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#56d3a6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffa53d" stop-opacity="0.05"/>
+      <stop offset="0.55" stop-color="#ffa53d" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#56d3a6" stop-opacity="0.85"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#ember)"/>
+  <rect width="1200" height="340" fill="url(#mint)"/>
+
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.09">
+    <circle cx="1015" cy="168" r="146"/>
+    <ellipse cx="1015" cy="168" rx="146" ry="56"/>
+    <ellipse cx="1015" cy="168" rx="56" ry="146"/>
+    <ellipse cx="1015" cy="168" rx="114" ry="88" transform="rotate(-24 1015 168)"/>
+  </g>
+  <path d="M0 302 C 180 298, 300 252, 420 260 S 640 216, 760 198 S 940 152, 1200 122"
+        fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="72" y="112" font-size="14" letter-spacing="6.5" fill="#ffa53d" font-weight="600">SRINIKHIL CHAKILAM</text>
+    <text x="72" y="192" font-size="44" font-weight="700" letter-spacing="-1.1" fill="#f2eee7">Small, sharp tools for networks,</text>
+    <text x="72" y="248" font-size="44" font-weight="700" letter-spacing="-1.1" fill="#f2eee7">security, and <tspan fill="#ffa53d">language models</tspan>.</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#8b8b96">
+    <text x="72" y="300">MIT-licensed</text>
+    <circle cx="178" cy="295" r="2.2" fill="#3a3a44"/>
+    <text x="194" y="300">zero dependencies</text>
+    <circle cx="332" cy="295" r="2.2" fill="#3a3a44"/>
+    <text x="348" y="300">tested, not asserted</text>
+    <circle cx="500" cy="295" r="2.2" fill="#3a3a44"/>
+    <text x="516" y="300">runs locally</text>
+  </g>
+</svg>
