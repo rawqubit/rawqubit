@@ -15,12 +15,13 @@ curl -L https://github.com/rawqubit/wirecut/releases/download/v0.1.0/wirecut_v0.
 
 [![wirecut](https://img.shields.io/github/v/release/rawqubit/wirecut?label=wirecut&color=ffa53d)](https://github.com/rawqubit/wirecut/releases) [![interlock](https://img.shields.io/github/v/release/rawqubit/interlock?label=interlock&color=ffa53d)](https://github.com/rawqubit/interlock/releases) [![tracelight](https://img.shields.io/github/v/release/rawqubit/tracelight?label=tracelight&color=ffa53d)](https://github.com/rawqubit/tracelight/releases) [![constellate](https://img.shields.io/github/v/release/rawqubit/constellate?label=constellate&color=ffa53d)](https://github.com/rawqubit/constellate/releases)
 
-### Open two of these right now, no install
+### Open three of these right now, no install
 
 | | |
 |---|---|
 | [**earthwire**](https://rawqubit.github.io/earthwire/) — a 3D globe of the physical internet. | Submarine cables, landing stations, and live BGP route updates from RIPE RIS, drawn in raw WebGL in one self-contained file. No three.js, no bundler. |
 | [**lossfall**](https://rawqubit.github.io/lossfall/) — a language model training in your tab. | A 28,032-parameter transformer starts as random noise and learns to write Shakespeare-flavoured English while you watch. Hand-written autograd, live loss curve, readable attention. |
+| [**photoatlas**](https://rawqubit.github.io/photoatlas/) — every place you have ever photographed. | Drop a folder of photos and ten years become one map that fills in, year by year. EXIF is parsed in the tab; the files never leave it. |
 
 ### Tools
 
@@ -30,6 +31,7 @@ curl -L https://github.com/rawqubit/wirecut/releases/download/v0.1.0/wirecut_v0.
 | [**interlock**](https://github.com/rawqubit/interlock) | Egress firewall for AI coding agents. Every outbound request is judged against a deterministic policy before it leaves; every verdict goes into a hash-chained audit log. |
 | [**tracelight**](https://github.com/rawqubit/tracelight) | Pure-Go pcap/pcapng reader: Ethernet, IPv4/IPv6, TCP, UDP, DNS, HTTP/1.1 and TLS SNI, assembled into flows with a real filter language. No libpcap, no cgo. |
 | [**constellate**](https://github.com/rawqubit/constellate) | Passive OSINT workbench. Certificate transparency, DNS, RDAP and TLS facts become a typed graph you can pivot through — no API keys, no active scanning. |
+| [**photoatlas**](https://github.com/rawqubit/photoatlas) | Your photo library, drawn as a map of everywhere you have been: EXIF GPS, trips, and a timeline you can replay. Nothing is uploaded. |
 | [**ctxscope**](https://github.com/rawqubit/ctxscope) | X-ray an LLM context window: where the tokens went, which blocks are duplicated, what you can trim. |
 | [**mcp-inspect**](https://github.com/rawqubit/mcp-inspect) | Prices every tool definition an MCP server advertises, with a `--max-tokens` gate you can wire into CI. |
 | [**agent-failure-atlas**](https://github.com/rawqubit/agent-failure-atlas) | Forty-one ways production agents fail, each with the symptom, the mechanism, a repro that runs offline in under a second, and the fix. |
