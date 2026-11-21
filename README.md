@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Srinikhil Chakilam — small, sharp tools for networks, security and language models" width="1200">
+  <img src="https://raw.githubusercontent.com/rawqubit/rawqubit/main/assets/banner.svg" alt="Srinikhil Chakilam — small, sharp tools for networks, security and language models" width="1200">
 </div>
 
 I build tools I could not find: short, dependency-free programs that make a hard thing visible — a network, a key leaving a machine, a model learning, a packet's whole life. Everything here is MIT-licensed, runs on your machine, and ships with tests that check the claim instead of asserting it.
