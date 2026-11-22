@@ -21,8 +21,8 @@ curl -L https://github.com/rawqubit/wirecut/releases/download/v0.1.0/wirecut_v0.
 |---|---|
 | [**earthwire**](https://rawqubit.github.io/earthwire/) — a 3D globe of the physical internet. | Submarine cables, landing stations, and live BGP route updates from RIPE RIS, drawn in raw WebGL in one self-contained file. No three.js, no bundler. |
 | [**lossfall**](https://rawqubit.github.io/lossfall/) — a language model training in your tab. | A 28,032-parameter transformer starts as random noise and learns to write Shakespeare-flavoured English while you watch. Hand-written autograd, live loss curve, readable attention. |
-| [**photoatlas**](https://rawqubit.github.io/photoatlas/) — every place you have ever photographed. | Drop a folder of photos and ten years become one map that fills in, year by year. EXIF is parsed in the tab; the files never leave it. |
-| [**pocketprint**](https://rawqubit.github.io/pocketprint/) — what every site already knows about you. | Twenty-two signals your browser hands over before you click, each valued in bits, hashed into the same fingerprint a tracker stores. Nothing is sent. |
+| [**photoatlas**](https://srinikhilchakilam.com/photoatlas/) — every place you have ever photographed. | Drop a folder of photos and ten years become one map that fills in, year by year. EXIF is parsed in the tab; the files never leave it. |
+| [**pocketprint**](https://srinikhilchakilam.com/pocketprint/) — what every site already knows about you. | Twenty-two signals your browser hands over before you click, each valued in bits, hashed into the same fingerprint a tracker stores. Nothing is sent. |
 
 ### Tools
 
